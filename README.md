@@ -6,4 +6,6 @@ You can put this project under your cocos2d-x root's projects folder.(I use Walz
 
 Now I only add ios and android support, more version will be added in the future. Hope you guys will contribute.
 
-Licence:Do What The Fuck You Want To Public License [WTFPL](http://www.wtfpl.net/).
+**Licence:**
+
+Do What The Fuck You Want To Public License ([WTFPL](http://www.wtfpl.net/)).
